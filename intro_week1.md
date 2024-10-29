@@ -180,6 +180,10 @@ A map of Nigerian states with cities overlaid as red markers.
 - What spatial relationships can be observed between the cities and state boundaries?
 - How evenly are large cities distributed across Nigeria?
 
+## WEEK 1 LAB
+[Week 1 Lab](http://13.60.35.146/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Foluwarotimii%2FCGLA.git&urlpath=tree%2FCGLA.git%2FWeek1LAB.ipynb&branch=main)
+
+
 ## Assessment for Week 1
 At the end of Week 1, students will submit a report containing:
 - A summary of their exploration of Nigerian city data in Lab 1.
@@ -187,5 +191,3 @@ At the end of Week 1, students will submit a report containing:
 - A map showing Nigerian state boundaries with city data overlaid from Lab 3.
 
 ---
-
-Feel free to adjust any section as necessary for your course needs!
